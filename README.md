@@ -83,10 +83,13 @@ Highly correlated variables were used for feature selection.
 
 
 ## 👨‍💻 Author
-Nakkala Yogananda Reddy
-B.Tech Data Science & ML – Lovely Professional University
-🔗 LinkedIn
-📧 Email: yoganandareddy454@gmail.com
+
+**Nakkala Yogananda Reddy**  
+B.Tech in Data Science and Machine Learning  
+Lovely Professional University  
+
+📫 Email: [yoganandareddy454@gmail.com](mailto:yoganandareddy454@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/yogananda454](https://www.linkedin.com/in/yogananda454/)
 
 
 ## 📜 License
