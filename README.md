@@ -70,15 +70,16 @@ Several features had outliers which were removed before model training.
 Highly correlated variables were used for feature selection.
 
 
-## ⚙️ Machine Learning Models Used
-Multiple regression models were evaluated to predict body fat:
+## 🤖 Machine Learning Models Used
 
-Model	Description
-Linear Regression	Baseline model
-Lasso Regression	L1 regularization for feature selection
-Ridge Regression	L2 regularization to avoid overfitting
-Random Forest Regressor	Non-linear ensemble method
-Gradient Boosting	Boosted tree-based regression
+| Model                   | Description                                 |
+|-------------------------|---------------------------------------------|
+| **Linear Regression**   | Baseline model                              |
+| **Lasso Regression**    | L1 regularization for feature selection     |
+| **Ridge Regression**    | L2 regularization to avoid overfitting      |
+| **Random Forest**       | Non-linear ensemble-based method            |
+| **Gradient Boosting**   | Boosted tree-based regression technique     |
+
 
 
 ## 👨‍💻 Author
